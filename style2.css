@@ -274,8 +274,9 @@
 }
 
 .bold .section .item h4 {
-    margin: 0.3em 0;
-    color: #a6a6a6
+    margin: 10px 0;
+    font-weight: normal;
+    /* color: #a6a6a6 */
 }
 
 .bold .section .date {
